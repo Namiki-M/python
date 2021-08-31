@@ -48,9 +48,9 @@
 
 
 
-# from collections import Counter
-# # x = ['フ','ィ','ン','セ','ン','ト']
-# # print(Counter(x))
+from collections import Counter
+x = ['フ','ィ','ン','セ','ン','ト']
+print(Counter(x))
 # # print(1,2,3,4,4,5,sep='と')  
 
 # x = input('入力してね')
@@ -70,9 +70,9 @@
 # for c in l[0:5]:
 #     print(c)
 
-x = ['野球','サッカー','バレー','カバディ']
-for y in x[1:3]:
-	print(y)
+#x = ['野球','サッカー','バレー','カバディ']
+#for y in x[1:3]:
+#	print(y)
 
 
 
