@@ -70,9 +70,46 @@
 # for c in l[0:5]:
 #     print(c)
 
-x = ['野球','サッカー','バレー','カバディ']
-for y in x[1:3]:
-	print(y)
+# x = ['野球','サッカー','バレー','カバディ']
+# for y in x[1:3]:
+# 	print(y)
+
+# x = 10
+# while x >= 0:
+# 	print(x,'日')
+# 	x = x - 1
+
+# for x in range(0,10):
+# 	if x == 9:
+# 		break
+# 	if x == 3:
+# 		continue
+# 	print(x,'日')
+
+# def test(name):
+# 	print(name,'さんはすごい')
+
+# test('内藤')
+# test('進藤')
+
+# def test(name):
+# 	return str(name)+'さんすごい'
+
+# print(test('内藤'))
+# print(test('進藤'))
+
+# import openpyxl
+
+# wb = openpyxl.load_workbook(r"test.xlsx")
+# for sheet in wb:
+#     for row in sheet:
+#         for cell in row:
+#             print(cell.value)
+
+
+
+
+
 
 
 
